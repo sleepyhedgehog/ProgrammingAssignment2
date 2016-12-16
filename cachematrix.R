@@ -1,5 +1,5 @@
 ## This function calculates the inverse of a matrix, stores the
-## result in a cache and returns the result.
+## result in a cache.
 
 ## The makeCacheMatrix function stores a list of functions that are used in the next function.
 
